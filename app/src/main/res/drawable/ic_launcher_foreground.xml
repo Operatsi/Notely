@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+
+    <group
+        android:scaleX="0.19"
+        android:scaleY="0.19"
+        android:translateX="5.4"
+        android:translateY="6.2">
+
+        <!-- 1. Notepad Drop Shadow -->
+        <path
+            android:fillColor="#8F6500"
+            android:fillAlpha="0.10"
+            android:pathData="M132,102H380A34,34 0 0,1 414,136V429A34,34 0 0,1 380,463H132A34,34 0 0,1 98,429V136A34,34 0 0,1 132,102Z" />
+        <path
+            android:fillColor="#8F6500"
+            android:fillAlpha="0.23"
+            android:pathData="M136,105H376A31,31 0 0,1 407,136V428A31,31 0 0,1 376,459H136A31,31 0 0,1 105,428V136A31,31 0 0,1 136,105Z" />
+
+        <!-- 2. Notepad Sheet (rx=31) -->
+        <path
+            android:fillColor="#FFFDF5"
+            android:pathData="M136,91H376A31,31 0 0,1 407,122V394A31,31 0 0,1 376,425H136A31,31 0 0,1 105,394V122A31,31 0 0,1 136,91Z" />
+
+        <!-- 3. Top Header Accent Band -->
+        <path
+            android:fillColor="#FFDA3D"
+            android:pathData="M105,122Q105,91 136,91H376Q407,91 407,122V163H105Z" />
+
+        <!-- 4. 4 Binder Rings (fill=#755000, rx=9) -->
+        <path
+            android:fillColor="#755000"
+            android:pathData="M161,73A9,9 0 0,1 170,82V103A9,9 0 0,1 161,112A9,9 0 0,1 152,103V82A9,9 0 0,1 161,73ZM234,73A9,9 0 0,1 243,82V103A9,9 0 0,1 234,112A9,9 0 0,1 225,103V82A9,9 0 0,1 234,73ZM307,73A9,9 0 0,1 316,82V103A9,9 0 0,1 307,112A9,9 0 0,1 298,103V82A9,9 0 0,1 307,73ZM380,73A9,9 0 0,1 389,82V103A9,9 0 0,1 380,112A9,9 0 0,1 371,103V82A9,9 0 0,1 380,73Z" />
+
+        <!-- 5. 4 Ruled Content Lines (stroke=#D6CDB3, stroke-width=12) -->
+        <path
+            android:strokeColor="#D6CDB3"
+            android:strokeWidth="12"
+            android:strokeLineCap="round"
+            android:pathData="M155,214H343M155,260H310M155,306H275M155,352H230" />
+
+        <!-- 6. Stylized Pencil (Rotated 39 deg at pivot 347, 335) -->
+        <group
+            android:rotation="39"
+            android:pivotX="347"
+            android:pivotY="335">
+
+            <!-- Pencil Body Outer Frame (#282828, rx=8) -->
+            <path
+                android:fillColor="#282828"
+                android:pathData="M334,242H361A8,8 0 0,1 369,250V370A8,8 0 0,1 361,378H334A8,8 0 0,1 326,370V250A8,8 0 0,1 334,242Z" />
+
+            <!-- Pencil Inner Yellow (#FFC928, rx=3) -->
+            <path
+                android:fillColor="#FFC928"
+                android:pathData="M335,257H360A3,3 0 0,1 363,260V345A3,3 0 0,1 360,348H335A3,3 0 0,1 332,345V260A3,3 0 0,1 335,257Z" />
+
+            <!-- Sharpened Wood Cone (#F2BD84) -->
+            <path
+                android:fillColor="#F2BD84"
+                android:pathData="M326,375H369L347.5,414Z" />
+
+            <!-- Graphite Tip (#282828) -->
+            <path
+                android:fillColor="#282828"
+                android:pathData="M339,399H356L347.5,414Z" />
+
+            <!-- Top White Cap (#FFFFFF, rx=7) -->
+            <path
+                android:fillColor="#FFFFFF"
+                android:pathData="M333,237H362A7,7 0 0,1 369,244V250A7,7 0 0,1 362,257H333A7,7 0 0,1 326,250V244A7,7 0 0,1 333,237Z" />
+        </group>
+    </group>
+</vector>
