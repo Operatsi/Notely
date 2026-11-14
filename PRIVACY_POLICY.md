@@ -1,8 +1,8 @@
 # Privacy Policy for Notely
 
 **Effective Date:** November 14, 2026  
-**Developer:** OperatSI Technologies Ltd.  
-**Contact:** [privacy@operatsi.com](mailto:privacy@operatsi.com)  
+**Developer:** OperatSI  
+**Discussion & Inquiries:** [GitHub Discussions](https://github.com/Operatsi/Notely/discussions)  
 **Application:** Notely — Clean Notes & Productivity (`com.operatsi.notely`)
 
 ---
@@ -44,10 +44,8 @@ Notely does not knowingly collect or solicit any personal information from child
 ## 8. Changes to this Privacy Policy
 OperatSI may update this Privacy Policy from time to time to reflect enhancements to Notely or regulatory updates. Any changes will be posted directly within the application settings and in this repository.
 
-## 9. Contact Us
-If you have any questions, feedback, or compliance inquiries regarding this Privacy Policy, please contact:
+## 9. Contact & Discussions
+If you have any questions, feedback, or compliance inquiries regarding this Privacy Policy or Notely, you can connect directly through GitHub Discussions:
 
-**OperatSI Corporate Privacy Office**  
-Email: [privacy@operatsi.com](mailto:privacy@operatsi.com)  
-Website: [https://github.com/Operatsi/Notely](https://github.com/Operatsi/Notely)  
-OperatSI Technologies Ltd.
+- **GitHub Discussions:** [https://github.com/Operatsi/Notely/discussions](https://github.com/Operatsi/Notely/discussions)  
+- **Developer:** OperatSI

@@ -310,8 +310,8 @@ fun SettingsScreen(
 
                     PrivacySection(
                         number = "7",
-                        title = "Corporate Contact",
-                        content = "For questions or compliance verifications regarding this policy, contact:\nOperatSI Corporate Privacy Office\nEmail: privacy@operatsi.com\nOperatSI Technologies Ltd."
+                        title = "Discussion & Contact",
+                        content = "For questions, feedback, or compliance verifications regarding this policy, join the discussion on GitHub:\nhttps://github.com/Operatsi/Notely/discussions\nOperatSI"
                     )
                 }
             },

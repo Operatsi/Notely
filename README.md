@@ -16,7 +16,7 @@
 
 ## 🌟 Overview
 
-**Notely** is crafted by **OperatSI Technologies Ltd.** to deliver an elegant, distraction-free note-taking and task-tracking experience. Combining the fluid grid simplicity of Google Keep with the refined utility of Transsion Notepad, Notely empowers you to capture thoughts, manage actionable checklists, and schedule reminders with zero friction and absolute privacy.
+**Notely** is crafted by **OperatSI** to deliver an elegant, distraction-free note-taking and task-tracking experience. Combining the fluid grid simplicity of Google Keep with the refined utility of Transsion Notepad, Notely empowers you to capture thoughts, manage actionable checklists, and schedule reminders with zero friction and absolute privacy.
 
 > **Privacy First**: Everything you write remains 100% on your device. Zero external cloud sync, zero telemetry, zero tracking, and zero advertising SDKs. Read our full [Privacy Policy](PRIVACY_POLICY.md).
 
@@ -69,6 +69,13 @@ Notely is committed to complete user privacy:
 
 ---
 
+## 💬 Community & Discussion
+
+Have questions, ideas, or feedback? Join our community discussions on GitHub:
+- **GitHub Discussions**: [https://github.com/Operatsi/Notely/discussions](https://github.com/Operatsi/Notely/discussions)
+
+---
+
 ## 🛠️ Architecture & Tech Stack
 
 - **Language**: [Kotlin](https://kotlinlang.org/) (100% Kotlin codebase)
@@ -109,7 +116,7 @@ Notely is committed to complete user privacy:
 ## 📄 License
 
 ```
-Copyright 2026 OperatSI Technologies Ltd.
+Copyright 2026 OperatSI
 
 Licensed under the Apache License, Version 2.0 (the "License");
 you may not use this file except in compliance with the License.
@@ -128,5 +135,5 @@ Full details available in [LICENSE](LICENSE).
 ---
 
 <p align="center">
-  Developed by <strong>OperatSI Technologies Ltd.</strong>
+  Developed by <strong>OperatSI</strong>
 </p>
