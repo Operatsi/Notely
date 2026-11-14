@@ -60,12 +60,14 @@
 
 ---
 
-## 🛡️ Privacy Policy
+## 🛡️ Legal & Privacy
 
-Notely is committed to complete user privacy:
+Notely is committed to complete user privacy and transparency:
 - **No Data Collection**: We do not collect or transmit personal information.
-- **No Third-Party SDKs**: No ads, trackers, or telemetry.
-- **Full Policy**: [Read the Official Privacy Policy](PRIVACY_POLICY.md).
+- **No Third-Party SDKs**: Zero advertisements, tracking pixels, or telemetry frameworks.
+- **Official Privacy Policy**: [Read in Repo](PRIVACY_POLICY.md) • [🌐 Live Web Page](https://operatsi.github.io/Notely/privacy.html)
+- **Terms of Service**: [Read in Repo](TERMS_OF_SERVICE.md) • [🌐 Live Web Page](https://operatsi.github.io/Notely/terms.html)
+- **Legal Center**: [🌐 Notely Legal Center](https://operatsi.github.io/Notely/)
 
 ---
 
